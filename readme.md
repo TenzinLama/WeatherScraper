@@ -1,4 +1,4 @@
-Weather Scraper using php
+<h1>Weather Scraper using php </h1>
 
 Uses backstretch jQuery plugin to cycle through background images smoothly with fade animations
 
